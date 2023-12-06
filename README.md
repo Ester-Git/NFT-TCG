@@ -26,10 +26,3 @@ The player with the highest card then wins all of the "war" cards.
 
 The game ends when one player holds all of the cards.
 
-
-## Developer Notes:
-
-*I chose not to upload the card images used in the code because I did not own the images.
-To replicate, 0.png = 2 of Clubs, 13.png = 2 of Diamonds, 26.png = 2 of Hearts, and 39.png = 2 of Spades.*
-
-*CSS animations come from 'animate.css', a fantastic animation library created by Daniel Eden (found here https://daneden.github.io/animate.css/).*
